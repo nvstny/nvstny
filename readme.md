@@ -5,7 +5,8 @@ I am nvstny. A Cyber Security specialist from Weebys Space. I create apps, websi
 
 ## Social networks
 ### You can follow me on my Social Networks
-[![Github](assets/images/github.png)](https://github.com/nvstny) [![Twitter](assets/images/twitter.png)](https://twitter.com/nvstny) [![StackOverFlow](assets/images/stackoverflow.png)](https://stackoverflow.com/users/17401574/nvstny)
+[![Twitter](assets/images/twitter.png)](https://twitter.com/nvstny) [![StackOverFlow](assets/images/stackoverflow.png)](https://stackoverflow.com/users/17401574/nvstny)
+[![Github](assets/images/github.png)](https://github.com/nvstny) 
 
 ## Projects
 My new Projects for you will be listed under this text
