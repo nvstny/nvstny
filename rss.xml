@@ -27,7 +27,7 @@
 			<link>https://nvstny.site.weebys.space/blog/example.html</link>
 			<author>nvstny@gmail.com (Nvstny)</author>
 			<media:thumbnail
-				xmlns:media="http://search.yahoo.com/mrss/" url="https://nvstny.site.weebys.space/assets/images/nvstny.jpg" height="72" width="72"/>
+				xmlns:media="http://search.yahoo.com/mrss/" url="https://nvstny.site.weebys.space/uploads/maxresdefault.jpg" height="72" width="72"/>
 				<thr:total>0</thr:total>
 			</item>
 		</channel>
