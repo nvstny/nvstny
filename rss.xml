@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+	xmlns:blogger="http://schemas.google.com/blogger/2008"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:gd="http://schemas.google.com/g/2005"
+	xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0">
+	<channel>
+		<atom:id>tag:weebys.space</atom:id>
+		<lastBuildDate>Tue, 16 Nov 2021 07:02:04 +0000</lastBuildDate>
+		<category>example</category>
+		<title>Nvstny Personal Website</title>
+		<description>Nvstny Personal Website blog</description>
+		<link>https://nvstny.site.weebys.space/</link>
+		<managingEditor>nvstny@gmail.com (Nvstny)</managingEditor>
+		<generator>WRrssGEN</generator>
+		<openSearch:totalResults>1</openSearch:totalResults>
+		<openSearch:startIndex>1</openSearch:startIndex>
+		<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+		<item>
+			<guid isPermaLink="false">tag:weebys.space</guid>
+			<pubDate>Mon, 08 Nov 2021 10:27:00 +0000</pubDate>
+			<atom:updated>2021-11-13T23:35:53.347-08:00</atom:updated>
+			<title>Example Article</title>
+			<description>Example Article from Nvstny. Just testing this</description>
+			<link>https://nvstny.site.weebys.space/blog/example.html</link>
+			<author>nvstny@gmail.com (Nvstny)</author>
+			<media:thumbnail
+				xmlns:media="http://search.yahoo.com/mrss/" url="https://nvstny.site.weebys.space/assets/images/nvstny.jpg" height="72" width="72"/>
+				<thr:total>0</thr:total>
+			</item>
+		</channel>
+	</rss>
